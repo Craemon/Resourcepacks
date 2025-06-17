@@ -8,3 +8,4 @@ This repository includes most of my resourcepacks. This is done to reduce the in
 - Christmas Chests All Year
 - Chromakey
 - No More Christmas Chests
+- Replace Me Template Pack for Better Chromakey mod

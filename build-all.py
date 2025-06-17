@@ -24,6 +24,7 @@ def main():
         'chromakey',
         'chiseled-stone-brick-fix',
         'no-more-christmas-chests',
+        'replace-me-template-pack',
         'christmas-chests-all-year'
         # Add new folders here when needed
     ]
